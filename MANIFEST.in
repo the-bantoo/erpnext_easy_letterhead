@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpnext_easy_letterhead *.css
+recursive-include erpnext_easy_letterhead *.csv
+recursive-include erpnext_easy_letterhead *.html
+recursive-include erpnext_easy_letterhead *.ico
+recursive-include erpnext_easy_letterhead *.js
+recursive-include erpnext_easy_letterhead *.json
+recursive-include erpnext_easy_letterhead *.md
+recursive-include erpnext_easy_letterhead *.png
+recursive-include erpnext_easy_letterhead *.py
+recursive-include erpnext_easy_letterhead *.svg
+recursive-include erpnext_easy_letterhead *.txt
+recursive-exclude erpnext_easy_letterhead *.pyc
