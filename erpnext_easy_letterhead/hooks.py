@@ -173,3 +173,26 @@ user_data_fields = [
 # 	"erpnext_easy_letterhead.auth.validate"
 # ]
 
+fixtures = [
+	{"dt": "Custom Field", "filters": [
+		[
+			"dt", "in", [
+				"Letterhead"
+			]
+		]
+	]},
+	{"dt": "Client Script", "filters": [
+		[
+			"name", "in", [
+				"Letter Head-Form"
+			]
+		]
+	]}
+]
+
+
+doc_events = {
+	"Letter Head": {
+		"on_update": "erpnext_easy_letterhead.app.verify_letterhead"
+	}
+}
