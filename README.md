@@ -1,6 +1,6 @@
 ## ERPNext Easy Letterhead
 
-![Making ERPNext Letter Heads great again!](https://user-images.githubusercontent.com/7912989/141492221-ffe12483-aaa3-4034-a329-5fbc97206b17.gif)
+![Making ERPNext Letter Heads great again!](https://user-images.githubusercontent.com/7912989/141526200-20cad3cf-d61b-4fe0-bf2d-b82285406928.gif)
 
 
 #### Intro
