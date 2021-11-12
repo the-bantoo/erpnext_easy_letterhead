@@ -177,7 +177,7 @@ fixtures = [
 	{"dt": "Custom Field", "filters": [
 		[
 			"dt", "in", [
-				"Letterhead"
+				"Letter Head"
 			]
 		]
 	]},
